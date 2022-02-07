@@ -34,14 +34,14 @@
                 <version>0.8.5</version>
                 <executions>
                     <execution>
-                        <id>prepare-agent</id>
+                        <id>prepare-agent-12345</id>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
                     </execution>
 
                     <execution>
-                        <id>report</id>
+                        <id>report-123</id>
                         <phase>verify</phase>
                         <goals>
                             <goal>report</goal>
