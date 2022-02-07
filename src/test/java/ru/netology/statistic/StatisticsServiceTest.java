@@ -17,6 +17,7 @@ class StatisticsServiceTest {
 
         assertEquals(expected, actual);
     }
+
     @Test
     void IfFirstNumberOther() {
         StatisticsService service = new StatisticsService();
